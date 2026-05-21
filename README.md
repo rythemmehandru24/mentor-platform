@@ -201,6 +201,20 @@ Through this project, I improved my understanding of:
 
 ---
 
+## Screenshots
+
+![Login](screenshots/WhatsApp Image 2026-05-21 at 9.33.21 PM.jpeg)
+
+![Dashboard](screenshots/WhatsApp Image 2026-05-21 at 9.32.24 PM.jpeg)
+
+![SuperAdmin](screenshots/WhatsApp Image 2026-05-21 at 6.56.54 PM (2).jpeg)
+
+![Mentor Dashboard](screenshots/WhatsApp Image 2026-05-21 at 9.36.01 PM.jpeg)
+
+![Mentee Dashboard](screenshots/WhatsApp Image 2026-05-21 at 6.56.51 PM.jpeg)
+
+![Payment Checkout](screenshots/WhatsApp Image 2026-05-21 at 6.56.55 PM.jpeg)
+
 ## Author
 
 Developed as a Final Year BCA Project.
