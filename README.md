@@ -203,17 +203,35 @@ Through this project, I improved my understanding of:
 
 ## Screenshots
 
-![Login](screenshots/WhatsApp Image 2026-05-21 at 9.33.21 PM.jpeg)
+### Login Page
+![Login](screenshots/login-page.jpeg)
 
-![Dashboard](screenshots/WhatsApp Image 2026-05-21 at 9.32.24 PM.jpeg)
+---
 
-![SuperAdmin](screenshots/WhatsApp Image 2026-05-21 at 6.56.54 PM (2).jpeg)
+### Dashboard
+![Dashboard](screenshots/dashboard.jpeg)
 
-![Mentor Dashboard](screenshots/WhatsApp Image 2026-05-21 at 9.36.01 PM.jpeg)
+---
 
-![Mentee Dashboard](screenshots/WhatsApp Image 2026-05-21 at 6.56.51 PM.jpeg)
+### Super Admin Panel
+![Super Admin](screenshots/super-admin.jpeg)
 
-![Payment Checkout](screenshots/WhatsApp Image 2026-05-21 at 6.56.55 PM.jpeg)
+---
+
+### Mentor Dashboard
+![Mentor Dashboard](screenshots/mentor-dashboard.jpeg)
+
+---
+
+### Mentee Dashboard
+![Mentee Dashboard](screenshots/mentee-dashboard.jpeg)
+
+---
+
+### Payment Checkout
+![Payment Checkout](screenshots/payment-checkout.jpeg)
+
+---
 
 ## Author
 
